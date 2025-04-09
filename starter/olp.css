@@ -1,0 +1,42 @@
+
+body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: rgba(250, 243, 215, 0.932);
+}
+.bod{
+    margin: 0;
+    width: 500px;
+    display: grid;
+    background-color:  rgb(247, 232, 174);
+    gap: 20px;
+    padding: 0 30px;
+    padding-bottom: 30px;
+}
+
+/* 
+
+.otpverify{
+    width: 100%;
+    display: flex;
+   gap: 20px;
+}
+.btn{
+    padding: 10px;
+    background-color: #82eec1;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 150px;
+}
+*/
+   
+   
+    
+   

@@ -1,0 +1,13 @@
+*{
+    
+    margin: 0;
+    padding: 5;
+}
+
+body{
+    background: url('sun.jpg');
+    width: 50em;
+}
+label{
+    color: aliceblue;
+}
